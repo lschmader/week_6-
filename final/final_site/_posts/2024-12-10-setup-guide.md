@@ -27,7 +27,7 @@ The interface should look something like this!
 
  Your page should look like this!
 
- ![text](https://lschmader.github.io/laschmader.github.io/key.png)
+ ![text](key.png)
 
  7. Hit the green button that says "Start verification" to verify your phone number
  8. After verifying your phone number, hit "Create new secret key"
